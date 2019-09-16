@@ -31,11 +31,9 @@ Running Instructions/ Notes:
 
 The ff. must be installed:
 
-1. Flask
+1. python2 or 3
 
-2. python2 or 3
-
-3. panda library for python
+2. panda library for python
 
 
 To run:
