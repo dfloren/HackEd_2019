@@ -31,13 +31,13 @@ Running Instructions/ Notes:
 
 The ff. must be installed:
 
-1. python2 or 3
-
-2. panda library for python
+1. python
+2. pandas library for python
+3. flask_wtf
 
 
 To run:
-Open command prompt, navigate to directory containing the file 'suggest.py' and
+Open command prompt, navigate to directory 'myflaskapp' containing the file 'app.py' and
 type in the command 'python app.py'. 
 Navigate to the local host using any web
 browser with 'localhost:5000'
